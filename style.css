@@ -1,3 +1,14 @@
 .titulo-principal {
-    padding-left: 20px; text-transform: uppercase;
+    text-transform: uppercase;
+    margin: 50px;
+    text-align: center; 
+}
+ul {
+    position: relative;
+    display: inline-block;
+    width: 20%;
+}
+
+.texto {
+    text-align: left, justify;
 }
