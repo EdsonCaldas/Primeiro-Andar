@@ -1,25 +1,27 @@
 .titulo-principal {
     text-transform: uppercase;
-    margin: 50px;
+    margin: 0em 1em 0em 1em;
+    padding: 2em 2em 1em 2em;
     text-align: center;
     font-size: 3em;
 }
 li {
-    margin: 0px 30px 0px 30px;
-    padding: 10px;
+    margin: 0em 1em 0em 1em;
+    padding: 2em 2em 1em 2em;
     display: inline-block;
-    width: 20%;
+    width: 10em;
     text-align: center;
     font-size: 1.5em;
 }
 
 p {
-    margin: 5em 35em 2em 2em;
-    padding: 1em 2em 1em 6em;
-    text-align: justify;    
+    margin: 5em 5em 2em 2em;
+    padding: 2em 2em 1em 2em;
+    text-align: center;    
 }
 
 progress {
     font-size: 2em;
     margin: 50px;
 }
+
